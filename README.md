@@ -9,4 +9,4 @@ In-depth queries examining price changes, popular categories, and top-selling NF
 Visualizations and summaries showcasing market trends and shifts over time.
 Analytical insights into how major events impact NFT prices.
 
-[click here to accesses my sql analysis of this project]
+[click here to accesses my sql analysis of this project](https://github.com/Shakti-analyst/NFT_SALES_DATA.ANALYSIS)
